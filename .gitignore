@@ -1,0 +1,12 @@
+**/target/
+
+**/.classpath
+**/.settings
+**/.project
+bridge-proxy/download/
+*.log
+.metadata/
+settings.xml
+repository/
+keystore/
+
